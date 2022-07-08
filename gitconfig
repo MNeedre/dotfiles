@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = michael.needre@gmail.com
+	name = Michael Needre
